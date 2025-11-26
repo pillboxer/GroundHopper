@@ -1,13 +1,13 @@
-import SwiftUI
 import KittyCollection
+import SwiftUI
 
 @main
 struct GroundHopperApp: App {
     var body: some Scene {
-        WindowGroup {
-            CollectionHomeView<StadiumPack>()
-        }
-    }
+		CollectionScene {
+			CollectionHomeView<StadiumPack>()
+		}
+     }
 }
 
 #Preview {
