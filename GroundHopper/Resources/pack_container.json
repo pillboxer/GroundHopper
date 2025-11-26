@@ -1,0 +1,150 @@
+{
+  "id": "00000000-0000-0000-0000-000000020000",
+  "title": "Premier League Stadiums Pack",
+  "subtitle": "Visit selected Premier League grounds in the UK",
+  "description": "A curated collection of 20 prominent Premier League football stadiums.",
+  "outlineImage": "stadium_outline",
+  "fillImage": "stadium_fill",
+  "items": [
+	{
+	  "id": "00000000-0000-0000-0000-000000020001",
+	  "title": "Brentford Community Stadium",
+	  "description": "Home of Brentford FC, London.",
+	  "latitude": 51.490715,
+	  "longitude": -0.289048
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020002",
+	  "title": "King Power Stadium",
+	  "description": "Home of Leicester City FC, Leicester.",
+	  "latitude": 52.620640,
+	  "longitude": -1.142770
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020003",
+	  "title": "Stamford Bridge",
+	  "description": "Home of Chelsea FC, London.",
+	  "latitude": 51.481834,
+	  "longitude": -0.191390
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020004",
+	  "title": "Villa Park",
+	  "description": "Home of Aston Villa FC, Birmingham.",
+	  "latitude": 52.509090,
+	  "longitude": -1.885249
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020005",
+	  "title": "Selhurst Park",
+	  "description": "Home of Crystal Palace FC, London.",
+	  "latitude": 51.398338,
+	  "longitude": -0.086084
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020006",
+	  "title": "Anfield",
+	  "description": "Home of Liverpool FC, Liverpool.",
+	  "latitude": 53.430759,
+	  "longitude": -2.961425
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020007",
+	  "title": "Emirates Stadium",
+	  "description": "Home of Arsenal FC, London.",
+	  "latitude": 51.554867,
+	  "longitude": -0.109112
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020008",
+	  "title": "Etihad Stadium",
+	  "description": "Home of Manchester City FC, Manchester.",
+	  "latitude": 53.483135,
+	  "longitude": -2.200941
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020009",
+	  "title": "Old Trafford",
+	  "description": "Home of Manchester United FC, Manchester.",
+	  "latitude": 53.463493,
+	  "longitude": -2.292279
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020010",
+	  "title": "St Mary’s Stadium",
+	  "description": "Home of Southampton FC, Southampton.",
+	  "latitude": 50.906052,
+	  "longitude": -1.391692
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020011",
+	  "title": "Turf Moor",
+	  "description": "Home of Burnley FC, Burnley.",
+	  "latitude": 53.789108,
+	  "longitude": -2.230575
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020012",
+	  "title": "London Stadium",
+	  "description": "Home of West Ham United FC, London.",
+	  "latitude": 51.538811,
+	  "longitude": -0.017136
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020013",
+	  "title": "Tottenham Hotspur Stadium",
+	  "description": "Home of Tottenham Hotspur FC, London.",
+	  "latitude": 51.604252,
+	  "longitude": -0.067007
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020014",
+	  "title": "Falmer Stadium",
+	  "description": "Home of Brighton & Hove Albion FC, Brighton.",
+	  "latitude": 50.861782,
+	  "longitude": -0.084357
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020015",
+	  "title": "Goodison Park",
+	  "description": "Home of Everton FC, Liverpool.",
+	  "latitude": 53.438751,
+	  "longitude": -2.966681
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020016",
+	  "title": "Carrow Road",
+	  "description": "Home of Norwich City FC, Norwich.",
+	  "latitude": 52.622234,
+	  "longitude": 1.308621
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020017",
+	  "title": "Vicarage Road",
+	  "description": "Home of Watford FC, Watford.",
+	  "latitude": 51.649906,
+	  "longitude": -0.402061
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020018",
+	  "title": "Molineux Stadium",
+	  "description": "Home of Wolverhampton Wanderers FC, Wolverhampton.",
+	  "latitude": 52.590382,
+	  "longitude": -2.130924
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020019",
+	  "title": "Elland Road",
+	  "description": "Home of Leeds United FC, Leeds.",
+	  "latitude": 53.777782,
+	  "longitude": -1.573049
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000020020",
+	  "title": "St James’ Park",
+	  "description": "Home of Newcastle United FC, Newcastle upon Tyne.",
+	  "latitude": 54.975170,
+	  "longitude": -1.622539
+	}
+  ]
+}
